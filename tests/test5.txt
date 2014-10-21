@@ -1,0 +1,4 @@
+int x,y;
+x=y.10;.
+
+This file tests what happens when there is a '.' in a correct place, but before intended end of code.
